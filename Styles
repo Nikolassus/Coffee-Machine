@@ -1,0 +1,35 @@
+  <?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="dark_background">#121212</color>
+<color name="primary_brown">#D67C4E</color>
+<color name="cream_background">#F9F6F3</color>
+<color name="white">#FFFFFF</color>
+<color name="soft_white">#F2EFEF</color>
+<color name="dark_text">#242424</color>
+<color name="secondary_text">#8E8E8E</color>
+<color name="separator">#E6E0DB</color>
+</resources>
+
+    <?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">CoffeeApp</string>
+<string name="onboarding_title">Fall in Love with Coffee in Blissful Delight!</string>
+<string name="onboarding_subtitle">Welcome to our Coffee App with a wide variety of coffee pleasures.</string>
+<string name="get_started">Get Started</string>
+<string name="detail">Detail</string>
+<string name="back">Back</string>
+<string name="buy_now">Buy Now</string>
+<string name="sample_description">Welcome to Coffee App with a wide variety of coffee pleasures. Our coffee is freshly brewed and prepared with love.</string>
+<string name="order">Order</string>
+<string name="delivery">Delivery</string>
+<string name="pickup">Pick Up</string>
+<string name="order_now">Order</string>
+</resources>
+
+    <?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <item name="colorPrimary">@color/primary_brown</item>
+    <item name="android:statusBarColor">@color/dark_background</item>
+</style>
+</resources>
